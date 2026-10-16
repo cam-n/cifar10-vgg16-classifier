@@ -117,8 +117,8 @@ The best model is saved after training and reloaded for evaluation. The validati
 **Run:**
 
 ```bash
-git clone https://github.com/cam-n/cnn-raw-dataset.git
-cd cnn-raw-dataset
+git clone https://github.com/cam-n/cifar10-vgg16-classifier.git
+cd cifar10-vgg16-classifier
 pip install tensorflow==2.3.1 numpy==1.18.5 matplotlib==3.3.2 notebook
 jupyter notebook vgg16.ipynb
 ```
